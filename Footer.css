@@ -1,0 +1,66 @@
+.Footermain-about {
+  color: #ff0066;
+  font-size: 19px;
+}
+
+.Footerheading-style {
+  margin-top: 60px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.Footermain-title {
+  color: black;
+  font-size: 46px;
+  margin-top: 45px;
+}
+.containerFooterInternal {
+  background-color: white;
+  width: 800px;
+  height: 260px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.FooterIMGStyle {
+  background-color: #ff0066;
+  position: relative;
+  width: 1444px;
+  height: 210px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 100px 0;
+  margin-bottom: -9px;
+  margin-right: -90px;
+}
+
+.logoCompanies {
+  width: 60%;
+}
+.Footerparagraph {
+  width: 700px;
+}
+.authorstyle {
+  text-align: center;
+  width: 300px;
+}
+.authorLogo {
+  margin-left: 350px;
+}
+.quoteDetails {
+  margin-top: -50px;
+  margin-left: 370px;
+}
+.footerColorBox {
+  width: 100%;
+  margin-right: 100px !important;
+  margin-left: -10px;
+}
+@media only screen and (max-width: 768px) {
+  .FooterIMGStyle {
+    padding: 30px 0; /* Adjusted padding for smaller screens */
+  }
+}
